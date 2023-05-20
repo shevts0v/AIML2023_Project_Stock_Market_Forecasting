@@ -6,7 +6,7 @@ Jupyter notebooks for the final AI &amp; ML course project.
 > Email rosh22ab@student.cbs if you want to get it (academic use only)
 
 **Notebooks:**
-1) TBD    
+1) [01_Bloomberg_data_cleanup.ipynb](Notebooks%2F01_Bloomberg_data_cleanup.ipynb) - dataset cleanup and preprocessing     
 2) TBD   
 3) TBD  
 4) TBD  
