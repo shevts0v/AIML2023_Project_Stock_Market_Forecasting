@@ -7,6 +7,5 @@ Jupyter notebooks for the final AI &amp; ML course project
 
 **Notebooks:**
 1) [01_Bloomberg_data_cleanup.ipynb](Notebooks%2F01_Bloomberg_data_cleanup.ipynb) - dataset cleanup and preprocessing     
-2) TBD   
-3) TBD  
-4) TBD  
+2) [02_NLP_task_news_headlines.ipynb](Notebooks%2F02_NLP_task_news_headlines.ipynb)) - sentiment and embeddings calculation   
+3) [03_Stock_price_movement_prediction_task.ipynb](Notebooks%2F03_Stock_price_movement_prediction_task.ipynb) - stock movement prediction
